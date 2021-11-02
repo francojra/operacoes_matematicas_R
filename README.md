@@ -2,7 +2,7 @@
 
 ## O R pode ser utilizado como uma calculadora
 
-### Nesses script apresento exemplos de:
+### Nesse script apresento exemplos de:
 1. Soma;
 2. Subtração;
 3. Divisão;
